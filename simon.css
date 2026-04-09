@@ -1,0 +1,40 @@
+h1 {
+    
+    color: blueviolet;
+}
+body{
+    text-align: center;
+}
+h2{
+    color: rosybrown
+}
+.internal{
+    height: 150px;
+    width: 150px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+#b1{
+    background-color: skyblue;
+}
+#b2{
+    background-color: pink;
+}
+#b3{
+    background-color: yellowgreen;
+}
+#b4{
+    background-color: purple;
+}
+.flash{
+    border: 10px solid white;
+    box-shadow: 0 0 20px white;
+}
+.redo {
+  background-color: red;
+}
